@@ -15,6 +15,11 @@ using namespace solver;
         
         return 0;
     }
+    double solver::solve(double n)
+    {
+        
+        return 0;
+    }
 
 
    
